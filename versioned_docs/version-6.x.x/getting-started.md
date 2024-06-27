@@ -3,6 +3,7 @@ sidebar_position: 2
 title: Getting Started
 ---
 
+
 In this tutorial, you will learn to make a simple setup of Sequelize.
 
 ## Installing
